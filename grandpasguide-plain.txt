@@ -1,0 +1,9 @@
+Grandpa’s Guide
+An introduction to free software, Debian, and Raspberry Pi.
+Written by Nateshade and his Grandfather Ward.
+
+
+Chapter 1
+What is Free Software?
+
+When you think of free software, you typically would be thinking of software which is “Free as in Beer.” This means that it doesn’t cost money. When you hear the phrase “Free Software” as a GNU/Linux user, you are usually thinking of software that is “Free as in Speech,” meaning it is Open Source. Open Source means that anybody can look at the code of the software, edit it, and publish their edits. Many Open Source projects have a license, which keeps anybody who edits the software from publishing it as a closed source project. “Free as in Speech” software is not always “Free as in Beer” as well.
