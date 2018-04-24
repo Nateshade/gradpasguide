@@ -6,4 +6,12 @@ Written by Nateshade and his Grandfather Ward.
 Chapter 1
 What is Free Software?
 
-When you think of free software, you typically would be thinking of software which is “Free as in Beer.” This means that it doesn’t cost money. When you hear the phrase “Free Software” as a GNU/Linux user, you are usually thinking of software that is “Free as in Speech,” meaning it is Open Source. Open Source means that anybody can look at the code of the software, edit it, and publish their edits. Many Open Source projects have a license, which keeps anybody who edits the software from publishing it as a closed source project. “Free as in Speech” software is not always “Free as in Beer” as well.
+When you think of free software, you typically would be thinking of software which is “Free as in Beer.” This means that it doesn’t cost money. When you hear the phrase “Free Software” as a GNU/Linux user, you are usually thinking of software that is “Free as in Speech,” meaning it is Open Source. Open Source means that anybody can look at the code of the software, edit it, and publish their edits. Many Open Source projects have a license, which keeps anybody who edits the software from publishing it as a closed source project.
+
+“Free as in Speech” software is not always “Free as in Beer” as well.
+If a software is “Free as in Speech,” (which will now be referred to as FAIS, whereas “Free as in Beer” will be called FAIB) its license will most likely permit it to be sold if it is modified, therefore making it not FAIB.
+
+Most FAIS software*1 will NOT permit an unmodified version to be sold, even if it’s under the same name. FAIS companies will sometimes allow physical copies of their products to be sold, but usually only under their strict guidelines. These guidelines can include many rules, from only allowing authorized sellers to having sellers only sell physical copies on specific formats.
+
+
+*1: This is the point where I realized that I’ve said the word “software” too much
